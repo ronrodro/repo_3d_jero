@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+#container {
+  width: 100%;
+  height: 100vh;
+}
+
+#container-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+canvas {
+  display: block;
+}
